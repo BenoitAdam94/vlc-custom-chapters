@@ -11,6 +11,9 @@ Custom chapters for VideoLan with a *.txt file
 - 01:03:50 - Other chapter name 
 
 ##  Install:
+
+Put chapter_loader.lua in the plugin location :
+
 - Linux   : ~/.local/share/vlc/lua/extensions/
 - macOS   : ~/Library/Application Support/org.videolan.vlc/lua/extensions/
 - Windows : %APPDATA%\vlc\lua\extensions\
