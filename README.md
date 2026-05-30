@@ -22,5 +22,6 @@ Activate once via View -> Custom Chapters, then it's automatic.
 
 ## Screen
 
-will do soon.
+<img width="444" height="291" alt="image" src="https://github.com/user-attachments/assets/c17b175f-2e38-4b96-a935-ae9b2d175218" />
+
 
