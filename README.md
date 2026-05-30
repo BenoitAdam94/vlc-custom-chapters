@@ -1,4 +1,4 @@
-# VLC (Video Lan) Custom Chapters
+# VLC (VideoLan) Custom Chapters
 
 Custom chapters for VideoLan with a *.txt file 
 
